@@ -1,0 +1,10 @@
+[package]
+name = "reducDim"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+
+csv = "1.2"
+plotters = "0.3"
+smartcore = "0.3"
